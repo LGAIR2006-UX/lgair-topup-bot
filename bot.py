@@ -72,8 +72,7 @@ PRICE_LIST = [
 ]
 
 # Payment methods
-PAYMENT_METHODS = "KBZ Pay / Wave / UAB"
-PAYMENT_NUMBERS = "09761457415"
+PAYMENT_METHODS = "KBZ / Wave / UAB / 09761457415 "
 # Orders file
 ORDERS_FILE = "orders.json"
 
