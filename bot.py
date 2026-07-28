@@ -38,7 +38,15 @@ SELECT_PACKAGE, ENTER_UID, ENTER_SERVER_ID, CONFIRM_ORDER = range(4)
 
 # MLBB Price List
 PRICE_LIST = [
-
+    
+    {"diamonds": 3, "price": 400},
+    {"diamonds": 5, "price": 600},
+    {"diamonds": 11, "price": 900},
+    {"diamonds": 22, "price": 1600},
+    {"diamonds": 55, "price": 3800},
+    {"diamonds": 86, "price": 5600},
+    {"diamonds": 110, "price": 7500},
+    {"diamonds": 172, "price": 11500},
     {"diamonds": 202, "price": 12000},
     {"diamonds": 257, "price": 15000},
     {"diamonds": 404, "price": 20600},
